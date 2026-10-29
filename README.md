@@ -4,5 +4,5 @@
 **Bordonii/Bordonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-* • Atualmete Cursando Ciência da Computação *
-* • 20y *
+*• Atualmete Cursando Ciência da Computação*
+*• 20y*
