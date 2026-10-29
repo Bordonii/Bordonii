@@ -3,6 +3,6 @@
 <!--
 **Bordonii/Bordonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-**• Atualmente Cursando Ciência da Computação**  
 **• 20y**
+**• Cursando Ciência da Computação**  
+**• Atualmente focando em estudar SQL**
